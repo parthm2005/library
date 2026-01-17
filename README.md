@@ -3,7 +3,7 @@
 
 ## 👥 Team Members
 
-- **Nevil Vataliya** ([nevil213](https://github.com/nevil213)) - U23CS158
+- **Nevil Vataliya** ([NevilVataliya](https://github.com/NevilVataliya)) - U23CS158
 - **Prankit Vishwakarma** ([prank-vish](https://github.com/prank-vish)) - U23CS113
 - **Parth Modi** ([parthm2005](https://github.com/parthm2005)) - U23CS107
 
